@@ -1,5 +1,5 @@
 Dialogo 1: "Holaaa"
 Dialogo 2: "Tienes que tener cuidado, nos vigilan"
 Dialogo 3: "Te puedo ayudar en algo?"
-["dialogoNPC-SI,dialogoNPC-NO"]
+["dialogoNPC-SI","dialogoNPC-NO"]
 

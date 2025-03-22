@@ -1,0 +1,2 @@
+Dialogo 1:"Quieres que te ayude a cruzar la seguridad."
+Dialogo 2:"Primero tienes que traerme una tarjeta de seguridad, se encuentran en la sala azul."
